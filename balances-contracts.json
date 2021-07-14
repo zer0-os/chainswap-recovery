@@ -1,0 +1,30 @@
+{
+  "0x817e98df6f3c290b77c2703e977e30b0ab3830f8": {
+    "amount": "483651240186626111268902",
+    "revocable": true
+  },
+  "0xd6c3ab79fb514b69bb5de2db10b3dd61d9f552ce": {
+    "amount": "1",
+    "revocable": true
+  },
+  "0x00000000f7b7d8a2974a129cbadd9f2f99c1ff80": {
+    "amount": "1",
+    "revocable": true
+  },
+  "0x4e2126b92dd3fc678f2ec2d2f2b6fc697a1ea27b": {
+    "amount": "1",
+    "revocable": true
+  },
+  "0x0000606ec42c2f4673b8a0e12c59451bfdcd8502": {
+    "amount": "1",
+    "revocable": true
+  },
+  "0x98468c0e9342d4e0ac3e09257251fab192992092": {
+    "amount": "28014220710356145917",
+    "revocable": true
+  },
+  "0xfa0d9e2cbc6a8e7d8b3a215daef950ccd9656703": {
+    "amount": "1636606221606143762",
+    "revocable": true
+  }
+}
