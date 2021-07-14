@@ -1,6 +1,8 @@
 
 import * as fs from "fs";
 
+require('dotenv').config()
+
 const main = async () => {
 
   const rawEventsFile = "./txEvents.json";

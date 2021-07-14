@@ -2,6 +2,8 @@
 import { BigNumber, ethers } from 'ethers';
 import * as fs from 'fs';
 
+require('dotenv').config()
+
 interface Balance {
   amount: string;
   revocable?: boolean;

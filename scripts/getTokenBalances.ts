@@ -5,6 +5,8 @@ import { BEP20Token__factory } from "../typechain";
 import { ethers } from "ethers";
 import * as fs from "fs";
 
+require('dotenv').config()
+
 const main = async () => {
 
   const provider = new ethers.providers.JsonRpcProvider(process.env.BSC_URL);
